@@ -1,0 +1,13 @@
+-- create database customer_task
+ -- create table customer_details(customer_id int,Name varchar(20),City varchar(20),country varchar(20))
+-- insert into customer_details(customer_id, name, City, country) 
+-- values 
+-- (10, 'john', 'london', 'england'),
+-- (11, 'melissa', 'rome', 'italy'),
+-- (21, 'chris', 'berlin', 'germany'),
+-- (31, 'layla', 'berlin', 'germany'),
+-- (32, 'abhishek', 'kolkata', 'india');
+ -- select City from customer_details
+ -- select country from customer_details
+-- select * from customer_details where City='berlin'
+-- select * from customer_details where customer_id=32
